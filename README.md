@@ -49,7 +49,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Akshay-Arjun/69phisher.git
+git clone https://github.com/kholi0o/69phisher.git
 cd 69phisher
 chmod 777 69phisher.sh
 bash 69phisher.sh
